@@ -60,15 +60,16 @@ The following tools were used to complete the laboratory activity:
 
 ## Skills Learned
 
-Determine the primary elements of cloud infrastructure.
-Explore resources on a Linux server by utilizing terminal commands.
-Comprehend the connection among computing power, storage solutions, and networking.
-Develop a simple architecture diagram for cloud infrastructure.
-Employ Markdown for creating well-structured technical documentation.
-Leverage Git and GitHub for overseeing lab files.
-Examine and contrast cloud services offered by various providers.
-Arrange files and documentation systematically within a GitHub repository.
-Enhance my knowledge of the role Linux environments play in cloud computing.
+* Identify the main elements of cloud infrastructure.
+* Explore Linux server resources using terminal commands.
+* Understand the relationship between compute, storage, and networking.
+* Create a simple cloud infrastructure architecture diagram.
+* Document findings using Markdown.
+* Use Git and GitHub to manage lab files.
+* Compare services from different cloud providers.
+* Organize files in a GitHub repository.
+* Understand Linux's role in cloud computing.
+
 
 ## Challenges Encountered
 
