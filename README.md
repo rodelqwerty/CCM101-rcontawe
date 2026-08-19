@@ -28,3 +28,67 @@ The laboratory activities will help me develop skills in:
 
 This laboratory introduces the Linux environment, basic Linux commands, GitHub, Markdown documentation, and cloud computing laboratory practices.
 
+### Laboratory 02 – Build the Cloud Infrastructure Blueprint
+
+This laboratory focused on understanding cloud infrastructure components and creating a basic cloud infrastructure blueprint.
+
+### Laboratory 03 – Upcoming
+
+Details will be added after completing the laboratory activity.
+
+### Laboratory 04 – Upcoming
+
+Details will be added after completing the laboratory activity.
+
+### Laboratory 05 – Upcoming
+
+Details will be added after completing the laboratory activity.
+
+## Tools and Technologies
+
+The laboratory activities may use the following tools and technologies:
+
+* **KillerCoda** – Cloud-based Linux environment
+* **Linux Terminal** – Command-line activities
+* **Git** – Version control
+* **GitHub** – Repository and portfolio management
+* **Markdown** – Technical documentation
+* **Canva** – Diagrams and visual documentation
+* **Docker** – Containerization
+* **Kubernetes** – Container orchestration```
+
+## Skills Development
+
+Through these laboratory activities, I am developing skills in:
+
+* Linux command-line operations
+* Cloud infrastructure
+* System administration
+* Git and GitHub
+* Cloud service research
+* Infrastructure design
+* Technical documentation
+* Problem solving and troubleshooting
+
+## Portfolio Progress
+
+| Laboratory    | Title                                    | Status      |
+| ------------- | ---------------------------------------- | ----------- |
+| Laboratory 01 | Welcome to the Cloud                     | Completed   |
+| Laboratory 02 | Build the Cloud Infrastructure Blueprint | Completed   |
+| Laboratory 03 | Upcoming                                 | Not Started |
+| Laboratory 04 | Upcoming                                 | Not Started |
+| Laboratory 05 | Upcoming                                 | Not Started |
+
+## Goal
+
+My goal is to use this portfolio to track my progress and demonstrate the skills I develop throughout **CCM101 – Cloud Computing**.
+
+By the end of the semester, this repository will contain a complete record of my laboratory activities, practical work, documentation, and learning progress.
+
+---
+
+**CCM101 – Cloud Computing**
+**Cloud Computing Portfolio**
+**Rodel Contawe (`rcontawe`)**
+
