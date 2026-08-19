@@ -44,26 +44,19 @@ The following tools were used to complete the laboratory activity:
 
 ## Linux Commands Executed
 
-| Command               | Description                                                                |
-| --------------------- | -------------------------------------------------------------------------- |
-| `uname -a`            | Displays detailed information about the Linux kernel and operating system. |
-| `cat /etc/os-release` | Displays information about the installed Linux distribution.               |
-| `lscpu`               | Displays CPU model, architecture, and number of CPU cores.                 |
-| `free -h`             | Displays the system's total, used, and available RAM.                      |
-| `df -h`               | Displays disk usage and available storage space.                           |
-| `lsblk`               | Lists available storage devices and partitions.                            |
-| `mount`               | Displays mounted file systems.                                             |
-| `hostname`            | Displays the hostname of the Linux system.                                 |
-| `ip addr`             | Displays network interfaces and IP address information.                    |
-| `pwd`                 | Displays the current working directory.                                    |
-| `ls`                  | Lists files and folders in the current directory.                          |
-| `cd`                  | Changes the current working directory.                                     |
-| `mkdir`               | Creates a new directory.                                                   |
-| `touch`               | Creates a new empty file.                                                  |
-| `git status`          | Displays the current Git repository status.                                |
-| `git add .`           | Stages files for a Git commit.                                             |
-| `git commit`          | Saves staged changes to the Git repository.                                |
-| `git push`            | Uploads committed changes to GitHub.                                       |
+| Command                      | Description                                                  |
+| ---------------------------- | ------------------------------------------------------------ |
+| `cat /etc/os-release`        | Displays information about the installed Linux distribution. |
+| `uname -r`                   | Displays the current Linux kernel version.                   |
+| `lscpu \| grep "Model name"` | Displays the CPU model name.                                 |
+| `lscpu \| grep "^CPU(s):"`   | Displays the number of available CPU processing units.       |
+| `free -h`                    | Displays the system's total, used, and available RAM.        |
+| `df -h`                      | Displays disk usage and available storage space.             |
+| `findmnt`                    | Displays mounted file systems and storage information.       |
+| `hostname`                   | Displays the hostname of the Linux system.                   |
+| `hostname -I`                | Displays the IP address of the Linux system.                 |
+| `ip addr`                    | Displays network interfaces and IP address information.      |
+
 
 ## Skills Learned
 
