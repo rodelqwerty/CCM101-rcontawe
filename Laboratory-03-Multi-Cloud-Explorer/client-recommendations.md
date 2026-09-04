@@ -79,3 +79,27 @@
 | 🎓 **Client B – University**  | **Microsoft Azure**             | Strong integration with Microsoft products |
 | 🤖 **Client C – AI Research** | **Google Cloud Platform (GCP)** | Powerful AI and ML computing               |
 | 🌎 **Client D – E-Commerce**  | **Amazon Web Services (AWS)**   | Global availability and automatic scaling  |
+
+---
+
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+This decision matrix recommends the most suitable cloud provider based on different business requirements.
+
+| Business Requirement           | Recommended Platform            | Justification                                                                                                       |
+| ------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 🚀 **Startup Company**         | **Google Cloud Platform (GCP)** | GCP offers flexible and scalable services that are suitable for startups with limited budgets.                      |
+| 🏢 **Enterprise Organization** | **Amazon Web Services (AWS)**   | AWS provides a wide range of services, strong security, and global infrastructure for large organizations.          |
+| 🪟 **Microsoft Environment**   | **Microsoft Azure**             | Azure works well with Windows Server, Microsoft 365, and Microsoft Entra ID.                                        |
+| 🤖 **AI / Machine Learning**   | **Google Cloud Platform (GCP)** | GCP provides powerful AI and ML tools such as Vertex AI and specialized computing resources.                        |
+| ☸️ **Kubernetes Deployment**   | **Google Cloud Platform (GCP)** | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying containerized applications.  |
+| 🌎 **Global Web Application**  | **Amazon Web Services (AWS)**   | AWS provides global infrastructure, load balancing, and automatic scaling for applications serving users worldwide. |
+
+## Summary
+
+| Provider  | Best For                                         |
+| --------- | ------------------------------------------------ |
+| **AWS**   | Enterprise organizations and global applications |
+| **Azure** | Microsoft-based environments                     |
+| **GCP**   | Startups, AI/ML, and Kubernetes applications     |
+
