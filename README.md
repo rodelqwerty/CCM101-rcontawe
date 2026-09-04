@@ -32,9 +32,9 @@ This laboratory introduces the Linux environment, basic Linux commands, GitHub, 
 
 This laboratory focused on understanding cloud infrastructure components and creating a basic cloud infrastructure blueprint.
 
-### Laboratory 03 – Upcoming
+### Laboratory 03 – Become a Multi-Cloud Explorer
 
-Details will be added after completing the laboratory activity.
+This laboratory focused on exploring and comparing **AWS, Microsoft Azure, and GCP**, recommending platforms for different scenarios, and matching cloud services. It also included a Linux investigation using KillerCoda and improved the GitHub Cloud Computing Portfolio.
 
 ### Laboratory 04 – Upcoming
 
@@ -76,7 +76,7 @@ Through these laboratory activities, I am developing skills in:
 | ------------- | ---------------------------------------- | ----------- |
 | Laboratory 01 | Welcome to the Cloud                     | Completed   |
 | Laboratory 02 | Build the Cloud Infrastructure Blueprint | Completed   |
-| Laboratory 03 | Upcoming                                 | Not Started |
+| Laboratory 03 | Become a Multi-Cloud Explorer            | Completed   |
 | Laboratory 04 | Upcoming                                 | Not Started |
 | Laboratory 05 | Upcoming                                 | Not Started |
 
