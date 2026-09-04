@@ -55,3 +55,25 @@ Google Cloud is well known for its **artificial intelligence, data analytics, an
 **I would personally choose AWS** because it offers a wide variety of cloud services and is suitable for many different types of projects. It would also give me the opportunity to learn different cloud technologies that can be useful for my future career in Information Technology.
 
 ---
+
+# Checkpoint 5 – Cloud Service Reference Table
+
+This table shows equivalent services from **AWS, Microsoft Azure, and Google Cloud Platform (GCP)**.
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Google Compute Engine          |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Google Cloud Storage           |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Google Cloud IAM               |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Quick Explanation
+
+| Category                | Purpose                                                                    |
+| ----------------------- | -------------------------------------------------------------------------- |
+| **Virtual Machine**     | Provides virtual computers for running applications and operating systems. |
+| **Object Storage**      | Stores files such as images, videos, documents, and backups.               |
+| **Identity Management** | Manages users, permissions, and access to cloud resources.                 |
+| **SQL Database**        | Provides managed relational databases for storing structured data.         |
+| **Kubernetes**          | Manages and runs containerized applications.                               |
