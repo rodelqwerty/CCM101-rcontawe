@@ -1,94 +1,71 @@
-# CCM101 Cloud Computing Portfolio
+<div align="center">
 
-## About Me
+![Futuristic Banner](screenshots/banner.png)
 
-My name is **Rodel Contawe**, and my Linux username is **rcontawe**. I am a Bachelor of Science in Information Technology (BSIT) student.
+# CCM101 CLOUD COMPUTING PORTFOLIO
+### // SECURE SYSTEM REPOSITORY // BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY
+**OPERATOR:** Rodel Contawe | **SYSTEM ID:** `rcontawe`
 
-## Cloud Computing Portfolio
-
-This repository contains my Cloud Computing laboratory activities for CCM101.
-
-Throughout the semester, I will use this repository to document my practical activities, exercises, scripts, screenshots, and reflections related to cloud computing.
-
-## Topics
-
-The laboratory activities will help me develop skills in:
-
-* Linux
-* Git and GitHub
-* Docker
-* Kubernetes
-* Cloud Infrastructure
-* Monitoring
-* Enterprise System Administration
-
-## Laboratory Activities
-
-### Laboratory 01 – Welcome to the Cloud
-
-This laboratory introduces the Linux environment, basic Linux commands, GitHub, Markdown documentation, and cloud computing laboratory practices.
-
-### Laboratory 02 – Build the Cloud Infrastructure Blueprint
-
-This laboratory focused on understanding cloud infrastructure components and creating a basic cloud infrastructure blueprint.
-
-### Laboratory 03 – Become a Multi-Cloud Explorer
-
-This laboratory focused on exploring and comparing **AWS, Microsoft Azure, and GCP**, recommending platforms for different scenarios, and matching cloud services. It also included a Linux investigation using KillerCoda and improved the GitHub Cloud Computing Portfolio.
-
-### Laboratory 04 – Upcoming
-
-Details will be added after completing the laboratory activity.
-
-### Laboratory 05 – Upcoming
-
-Details will be added after completing the laboratory activity.
-
-## Tools and Technologies
-
-The laboratory activities may use the following tools and technologies:
-
-* **KillerCoda** – Cloud-based Linux environment
-* **Linux Terminal** – Command-line activities
-* **Git** – Version control
-* **GitHub** – Repository and portfolio management
-* **Markdown** – Technical documentation
-* **Canva** – Diagrams and visual documentation
-* **Docker** – Containerization
-* **Kubernetes** – Container orchestration```
-
-## Skills Development
-
-Through these laboratory activities, I am developing skills in:
-
-* Linux command-line operations
-* Cloud infrastructure
-* System administration
-* Git and GitHub
-* Cloud service research
-* Infrastructure design
-* Technical documentation
-* Problem solving and troubleshooting
-
-## Portfolio Progress
-
-| Laboratory    | Title                                    | Status      |
-| ------------- | ---------------------------------------- | ----------- |
-| Laboratory 01 | Welcome to the Cloud                     | Completed   |
-| Laboratory 02 | Build the Cloud Infrastructure Blueprint | Completed   |
-| Laboratory 03 | Become a Multi-Cloud Explorer            | Completed   |
-| Laboratory 04 | Upcoming                                 | Not Started |
-| Laboratory 05 | Upcoming                                 | Not Started |
-
-## Goal
-
-My goal is to use this portfolio to track my progress and demonstrate the skills I develop throughout **CCM101 – Cloud Computing**.
-
-By the end of the semester, this repository will contain a complete record of my laboratory activities, practical work, documentation, and learning progress.
+</div>
 
 ---
 
-**CCM101 – Cloud Computing**
-**Cloud Computing Portfolio**
-**Rodel Contawe (`rcontawe`)**
+## [ MODULE MATRIX: CORE COMPETENCIES ]
 
+| Sector | Architecture / Tooling | Operational Focus |
+| :--- | :--- | :--- |
+| **01** | Linux & CLI | Kernel operations, environment configuration, and command-line execution |
+| **02** | Version Control | Git workflows, remote repository synchronization, and portfolio architecture |
+| **03** | Containerization | Docker daemon management, image pulling, and runtime isolation |
+| **04** | Cloud Platforms | Multi-cloud resource evaluation across AWS, Azure, and GCP |
+
+---
+
+## [ OPERATIONAL LOGS: LABORATORY ACTIVITIES ]
+
+* **Laboratory 01 – Welcome to the Cloud**  
+  *Initialized the Linux environment, mastered fundamental command-line utilities, configured Git version control, and established structural Markdown documentation standards.*
+* **Laboratory 02 – Build the Cloud Infrastructure Blueprint**  
+  *Architected foundational cloud infrastructure models, analyzing core resource components and mapping enterprise blueprint topologies.*
+* **Laboratory 03 – Become a Multi-Cloud Explorer**  
+  *Evaluated and contrasted AWS, Microsoft Azure, and GCP ecosystems, executing service matching and cloud platform recommendations for complex enterprise scenarios.*
+* **Laboratory 04 – The Cloud-Native Engineer**  
+  *Executed containerization protocols using Docker within the KillerCoda environment, deploying a live Nginx web server and managing full container lifecycles.*
+* **Laboratory 05 – Upcoming**  
+  *Subsystem initialization pending execution of subsequent academic directives.*
+
+---
+
+## [ HARDWARE & SOFTWARE STACK ]
+
+* **KillerCoda** – Cloud-hosted Linux sandbox infrastructure
+* **Linux Terminal** – Core command-line shell execution environment
+* **Git & GitHub** – Decentralized version control and repository hosting
+* **Markdown** – Structured technical specification formatting
+* **Docker** – Container engine and application virtualization runtime
+
+---
+
+## [ DEPLOYMENT PROGRESS MATRIX ]
+
+| Module ID | Operational Title | Execution Status |
+| :--- | :--- | :--- |
+| **Laboratory 01** | Welcome to the Cloud | COMPLETED |
+| **Laboratory 02** | Build the Cloud Infrastructure Blueprint | COMPLETED |
+| **Laboratory 03** | Become a Multi-Cloud Explorer | COMPLETED |
+| **Laboratory 04** | The Cloud-Native Engineer | COMPLETED |
+| **Laboratory 05** | Upcoming | STANDBY |
+
+---
+
+<div align="center">
+
+### [ SYSTEM OBJECTIVE ]
+*To systematically log technical milestones, validate cloud infrastructure competencies, and archive a complete deployment portfolio for **CCM101 – Cloud Computing**.*
+
+---
+
+**CCM101 – CLOUD COMPUTING PORTFOLIO**  
+**OPERATOR: Rodel Contawe (`rcontawe`)**
+
+</div>
