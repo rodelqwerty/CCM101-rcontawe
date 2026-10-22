@@ -1,1 +1,23 @@
+# Security Audit Report
 
+## Checkpoint 2 — Research: Security Best Practices
+
+### 1. Principle of Least Privilege (PoLP)
+
+The Principle of Least Privilege means that every user, application, and service should have only the permissions necessary to perform its assigned tasks. It is important in cloud environments because limiting unnecessary permissions reduces the risk of unauthorized access and minimizes the damage if an account or service is compromised.
+
+### 2. Attack Surface
+
+The attack surface of a virtual machine refers to all the possible entry points an attacker could use to gain unauthorized access or exploit the system. Examples include open network ports, running services, exposed applications, and unnecessary user permissions, which can increase the risk of security breaches.
+
+### 3. Default Deny Policy
+
+A Default Deny policy blocks all incoming network traffic unless a firewall rule explicitly allows it. This is safer than blocking known attackers individually because unknown or unauthorized connections are automatically denied, reducing the chances that unrecognized threats can access the server.
+
+### 4. Purpose of This Security Audit
+
+This security audit focuses on understanding security best practices before making changes to a live Linux server. It establishes the importance of limiting permissions, reducing exposed services, and applying firewall rules that allow only necessary network traffic, such as SSH administration and authorized web access.
+
+## Conclusion
+
+Applying the Principle of Least Privilege, minimizing the attack surface, and enforcing a Default Deny policy helps protect cloud servers against unauthorized access. Understanding these concepts provides a foundation for configuring the Linux server and its firewall more securely in the next stages of the laboratory activity.
