@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 ![Futuristic Banner](screenshots/banner.png)
 
@@ -24,6 +23,7 @@
 | **05** | Object Storage | S3-compatible storage, MinIO deployment, and bucket management |
 | **06** | Cloud Deployment | Docker Compose, multi-tier architecture, and multi-container orchestration |
 | **07** | Cloud Operations | Linux resource monitoring, Docker logs, HTTP request analysis, and container observability |
+| **08** | Cloud Security | UFW firewall configuration, default-deny policies, network port management, and attack surface reduction |
 
 ---
 
@@ -50,6 +50,9 @@
 - **Laboratory 07 – The Cloud Operations Engineer**  
   *Monitored Linux host resources using `free -h`, `df -h /`, and `top`. Deployed an Nginx web server using Docker, simulated successful HTTP requests and an intentional 404 error with `curl`, analyzed container logs, and measured real-time resource consumption using `docker stats`.*
 
+- **Laboratory 08 – The Cloud Security Engineer**  
+  *Deployed an Nginx web application in Docker, audited network access, and configured the UFW firewall with a default-deny incoming policy. Created explicit rules for SSH and TCP port 8080, verified firewall configuration, and documented security principles including least privilege and attack surface reduction.*
+
 ---
 
 ## [ HARDWARE & SOFTWARE STACK ]
@@ -66,6 +69,8 @@
 - **MariaDB** – Relational database management system
 - **curl** – HTTP request simulation and response verification
 - **Docker Logs & Stats** – Application troubleshooting and container resource monitoring
+- **UFW (Uncomplicated Firewall)** – Linux host-based firewall and network access control
+- **TCP/IP Networking** – Network port configuration and traffic management
 
 ---
 
@@ -80,6 +85,7 @@
 | **Laboratory 05** | The Cloud Data Engineer | COMPLETED |
 | **Laboratory 06** | The Cloud Deployment Engineer | COMPLETED |
 | **Laboratory 07** | The Cloud Operations Engineer | COMPLETED |
+| **Laboratory 08** | The Cloud Security Engineer | COMPLETED |
 
 ---
 
@@ -87,7 +93,7 @@
 
 <div align="center">
 
-*To systematically document technical milestones, validate cloud infrastructure competencies, monitor containerized applications, and maintain a comprehensive deployment portfolio for **CCM101 – Cloud Computing**.*
+*To systematically document technical milestones, validate cloud infrastructure competencies, monitor containerized applications, implement security controls, and maintain a comprehensive deployment portfolio for **CCM101 – Cloud Computing**.*
 
 ---
 
