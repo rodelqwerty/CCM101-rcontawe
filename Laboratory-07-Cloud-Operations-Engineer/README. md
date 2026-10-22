@@ -1,1 +1,53 @@
 
+# Laboratory 07 — The Cloud Operations Engineer
+
+## Mission Overview
+
+This laboratory activity focuses on monitoring a Linux host and a Dockerized web application. An Nginx container named `client-website` is deployed, HTTP requests are generated, application logs are analyzed, and real-time container resource metrics are collected.
+
+## Objectives
+
+- Monitor Linux memory and disk capacity.
+- Observe CPU usage and running processes.
+- Deploy an Nginx web server using Docker.
+- Generate successful HTTP requests and an intentional 404 error.
+- Retrieve and analyze application logs.
+- Measure container CPU and memory usage.
+- Document system health and operational findings.
+
+## Monitoring Commands Executed
+
+```bash
+free -h
+df -h /
+top
+docker run -d --name client-website -p 8080:80 nginx
+docker ps
+curl -i http://localhost:8080/
+curl -i "http://localhost:8080/?visit=2"
+curl -i "http://localhost:8080/?visit=3"
+curl -i http://localhost:8080/hidden-admin-page
+docker logs client-website
+docker stats
+```
+
+## Skills Learned
+
+- Linux system monitoring
+- Memory and disk capacity analysis
+- Docker container deployment
+- HTTP request simulation using curl
+- Application log analysis
+- Container resource monitoring
+- Markdown technical documentation
+- GitHub portfolio management
+
+## Screenshots
+
+- `screenshots/memory-check.png` — Host memory information.
+- `screenshots/disk-check.png` — Root filesystem capacity.
+- `screenshots/install-nginx.png` — Nginx container deployment.
+- `screenshots/simulation1.png` — Successful HTTP requests.
+- `screenshots/simulation2.png` — Intentional HTTP 404 response.
+- `screenshots/docker-logs.png` — Application access logs.
+- `screenshots/container-metrics.png` — Live Docker resource metrics.
