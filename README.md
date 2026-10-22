@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 ![Futuristic Banner](screenshots/banner.png)
 
@@ -16,12 +17,13 @@
 
 | Sector | Architecture / Tooling | Operational Focus |
 | :--- | :--- | :--- |
-| **01** | Linux & CLI | Kernel operations, environment configuration, and command-line execution |
+| **01** | Linux & CLI | Kernel operations, environment configuration, command-line execution, and system monitoring |
 | **02** | Version Control | Git workflows, remote repository synchronization, and portfolio architecture |
-| **03** | Containerization | Docker daemon management, image pulling, and runtime isolation |
+| **03** | Containerization | Docker daemon management, image pulling, container deployment, and runtime isolation |
 | **04** | Cloud Platforms | Multi-cloud resource evaluation across AWS, Azure, and GCP |
 | **05** | Object Storage | S3-compatible storage, MinIO deployment, and bucket management |
 | **06** | Cloud Deployment | Docker Compose, multi-tier architecture, and multi-container orchestration |
+| **07** | Cloud Operations | Linux resource monitoring, Docker logs, HTTP request analysis, and container observability |
 
 ---
 
@@ -45,6 +47,9 @@
 - **Laboratory 06 – The Cloud Deployment Engineer**  
   *Designed a two-tier application architecture using Nextcloud and MariaDB. Created a Docker Compose YAML configuration, deployed interconnected containers, configured web access through port mapping, and documented Infrastructure as Code principles.*
 
+- **Laboratory 07 – The Cloud Operations Engineer**  
+  *Monitored Linux host resources using `free -h`, `df -h /`, and `top`. Deployed an Nginx web server using Docker, simulated successful HTTP requests and an intentional 404 error with `curl`, analyzed container logs, and measured real-time resource consumption using `docker stats`.*
+
 ---
 
 ## [ HARDWARE & SOFTWARE STACK ]
@@ -55,9 +60,12 @@
 - **Markdown** – Structured technical documentation
 - **Docker** – Container engine and application isolation
 - **Docker Compose** – Multi-container application deployment and orchestration
+- **Nginx** – Web server for HTTP request handling and website delivery
 - **MinIO** – S3-compatible object storage
 - **Nextcloud** – Self-hosted private cloud storage application
 - **MariaDB** – Relational database management system
+- **curl** – HTTP request simulation and response verification
+- **Docker Logs & Stats** – Application troubleshooting and container resource monitoring
 
 ---
 
@@ -70,15 +78,16 @@
 | **Laboratory 03** | Become a Multi-Cloud Explorer | COMPLETED |
 | **Laboratory 04** | The Cloud-Native Engineer | COMPLETED |
 | **Laboratory 05** | The Cloud Data Engineer | COMPLETED |
-| **Laboratory 06** | The Cloud Deployment Engineer | IN PROGRESS |
+| **Laboratory 06** | The Cloud Deployment Engineer | COMPLETED |
+| **Laboratory 07** | The Cloud Operations Engineer | COMPLETED |
 
 ---
 
+## [ SYSTEM OBJECTIVE ]
+
 <div align="center">
 
-### [ SYSTEM OBJECTIVE ]
-
-*To systematically document technical milestones, validate cloud infrastructure competencies, and maintain a comprehensive deployment portfolio for **CCM101 – Cloud Computing**.*
+*To systematically document technical milestones, validate cloud infrastructure competencies, monitor containerized applications, and maintain a comprehensive deployment portfolio for **CCM101 – Cloud Computing**.*
 
 ---
 
@@ -86,4 +95,3 @@
 **OPERATOR: Rodel Contawe (`rcontawe`)**
 
 </div>
-
